@@ -8,6 +8,7 @@ if membership=="yes":
     print("please log in")
 else:
     print("get your membership")
+print("hello")
 
 
 
